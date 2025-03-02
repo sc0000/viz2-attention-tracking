@@ -1,0 +1,3138 @@
+[
+	{
+		"TimePassedSinceRecordingStarted": 0,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.51702381034918687,
+		"V": 0.8271540921116034,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.027237784117460251,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.51649918005323536,
+		"V": 0.82000549340386564,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.064194284379482269,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.51714141748627029,
+		"V": 0.80614987025923546,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.098476283252239227,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.51911894968121453,
+		"V": 0.80653742934258699,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.13530318439006805,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.51767468206736333,
+		"V": 0.81745500859305031,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.1717991828918457,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.51865708929551413,
+		"V": 0.83086258205369079,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.20826788246631622,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.51929223546421976,
+		"V": 0.81973293965028682,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.24258917570114136,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.51947873997200489,
+		"V": 0.82805504924376105,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.28023147583007812,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.52042086988346792,
+		"V": 0.82144151193045456,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.31703278422355652,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.52059763678740478,
+		"V": 0.81121821379579151,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.35264408588409424,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.52267748272991921,
+		"V": 0.82835760980947193,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.38930359482765198,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.52405669414656064,
+		"V": 0.84104733075279048,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.4248349666595459,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.52303531279083149,
+		"V": 0.83617403847782423,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.46134728193283081,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.52232562529978022,
+		"V": 0.80716810292842611,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.49816828966140747,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.5837334708820241,
+		"V": 0.946740312044559,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.53339415788650513,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.58838397904496986,
+		"V": 0.90590636073952979,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.5697704553604126,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.58725801733731808,
+		"V": 0.91651510535662561,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.60391420125961304,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.58696644289702538,
+		"V": 0.91556846515428703,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.64129239320755005,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.59097992515099862,
+		"V": 0.9125488366976372,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.67706525325775146,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.58949534968943262,
+		"V": 0.9136030544286744,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.71481096744537354,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.58930508819921767,
+		"V": 0.91175605573088314,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.74759715795516968,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.58850429663415804,
+		"V": 0.90991368565208219,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.78521269559860229,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.59087414120450243,
+		"V": 0.91334214347047349,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.82026636600494385,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.5934600461588605,
+		"V": 0.91620333481354121,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.85657000541687012,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.59639584188673322,
+		"V": 0.91324953772490547,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.89080280065536499,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.59612679404741686,
+		"V": 0.913839357308039,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.92817717790603638,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.59772443088635885,
+		"V": 0.91716333827071961,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 0.9638325572013855,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.59746600640409198,
+		"V": 0.91412265212747146,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 1.0350097417831421,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.61129261499354803,
+		"V": 0.99081594715280275,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 1.0708123445510864,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.61226380238699929,
+		"V": 0.99913942150665724,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 1.1065363883972168,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.61254647965903697,
+		"V": 0.99813146921254625,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 1.8626748323440552,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.418233431225152,
+		"V": 0.99900710030598627,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 1.9349743127822876,
+		"ObjectName": "BP_HeatmapReadyActor_C_1",
+		"U": 0.46496010718022057,
+		"V": 0.81683962263949006,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.0079526901245117,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49829794626153712,
+		"V": 0.9271421497339839,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.0429861545562744,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.50687633034565505,
+		"V": 0.90013130108396633,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.0795559883117676,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.50738969572259607,
+		"V": 0.89317286453896272,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.117556095123291,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.50612943821714973,
+		"V": 0.90192857599427523,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.1543314456939697,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52073266470821111,
+		"V": 0.85590350956971439,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.1904654502868652,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52318200817822735,
+		"V": 0.84878125880061206,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.2252020835876465,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5233759895707204,
+		"V": 0.85924933487218236,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.2621309757232666,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52196949533268855,
+		"V": 0.85884042363482549,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.2978155612945557,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51899980227358999,
+		"V": 0.86361005486831621,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.3354463577270508,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52080495723375031,
+		"V": 0.88436881137281809,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.3708443641662598,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52295854454377899,
+		"V": 0.88625094975459662,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.4075732231140137,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54375123662845892,
+		"V": 0.86725354570484126,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.442960262298584,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54574242936926598,
+		"V": 0.86977096716022895,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.4803552627563477,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54534004173761752,
+		"V": 0.87077383254238672,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.5186026096343994,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54824634632949731,
+		"V": 0.88799179651186033,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.5538368225097656,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54688584735323476,
+		"V": 0.89359649670600594,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.589895486831665,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54827235254586126,
+		"V": 0.88945181479760438,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.627915620803833,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54939979338634259,
+		"V": 0.89485344744119755,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.6643497943878174,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54938774673106905,
+		"V": 0.89760850232035372,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.7011196613311768,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.55321096630971622,
+		"V": 0.90158484528998528,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.7393233776092529,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.55703855040228056,
+		"V": 0.9106150000322546,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.7760694026947021,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54470544431103396,
+		"V": 0.8970265798312731,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.8110947608947754,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54205900081495917,
+		"V": 0.89967162080840501,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.8470826148986816,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54517471656602645,
+		"V": 0.89921891471876636,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.8839812278747559,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.54834321068413727,
+		"V": 0.90257581379141638,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.918480396270752,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.53831028919857205,
+		"V": 0.90697777299294935,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.9554054737091064,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51221311564639216,
+		"V": 0.91486000016638447,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 2.9909148216247559,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49205513757818775,
+		"V": 0.92370986582608428,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.0290882587432861,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.47622521546052771,
+		"V": 0.93496974108748621,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.0641696453094482,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46004370766117419,
+		"V": 0.94901644258217233,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.100604772567749,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45921593064907679,
+		"V": 0.95351882529190035,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.1357300281524658,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46195529248043454,
+		"V": 0.94906358328405394,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.173198938369751,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46163015182410261,
+		"V": 0.94831267299402355,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.2090439796447754,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46199758389306061,
+		"V": 0.93787743651737354,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.2460405826568604,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.4641698337391994,
+		"V": 0.94544432661557476,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.2833130359649658,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46372627477069267,
+		"V": 0.94623742090921403,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.3176283836364746,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45501307081643999,
+		"V": 0.95634088094046876,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.3548223972320557,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42541053644141003,
+		"V": 0.99753672144944006,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.3903374671936035,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42170375176952357,
+		"V": 0.99356285390322563,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.4283938407897949,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42014051754675541,
+		"V": 0.98305665105908169,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.4631202220916748,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42063394853510327,
+		"V": 0.98358415890732653,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.4993846416473389,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42013789991598477,
+		"V": 0.98317283493333507,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.5348885059356689,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42004393020841724,
+		"V": 0.98278557015103274,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.5730049610137939,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.41966877575499845,
+		"V": 0.9565929112843139,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.6085178852081299,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42893405637853388,
+		"V": 0.86010951192409824,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.6449720859527588,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42544205725923456,
+		"V": 0.81103180052980928,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.6821696758270264,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42609005514134968,
+		"V": 0.79813153120596259,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.7179374694824219,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42578988225379288,
+		"V": 0.79897452273807279,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.7558414936065674,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42579105928641253,
+		"V": 0.79282219749455995,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.7907009124755859,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42790567829834042,
+		"V": 0.79766924388523464,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.8284604549407959,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42654583401067397,
+		"V": 0.7953798823793905,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.8633248805999756,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42634138898499391,
+		"V": 0.79472866812082643,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.9003078937530518,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42700131031572541,
+		"V": 0.79598047827138529,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.9373974800109863,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.4270379260500759,
+		"V": 0.79527561186651696,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 3.9740622043609619,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42674145377307099,
+		"V": 0.79571822915452339,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.0104713439941406,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42746779446672012,
+		"V": 0.79637444586853123,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.0449924468994141,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42888276350824911,
+		"V": 0.79751170715499453,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.0816512107849121,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46604283502841892,
+		"V": 0.79025772673001105,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.1187376976013184,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.53422038507712921,
+		"V": 0.7930042457643971,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.1552329063415527,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.56128693009667541,
+		"V": 0.79443097730502044,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.1911334991455078,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.56123772146623352,
+		"V": 0.79636262300094107,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.2283725738525391,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.55966673539023803,
+		"V": 0.7972853999000884,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.2639398574829102,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5604478617421137,
+		"V": 0.79566876555477839,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.3036117553710938,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.56725724330897431,
+		"V": 0.80839875866537769,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.3369989395141602,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57819542047120887,
+		"V": 0.82974293153645884,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.3743219375610352,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5774076992525411,
+		"V": 0.83004988597623242,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.4082546234130859,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57708768331645577,
+		"V": 0.8292281425665311,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.4457526206970215,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57682506487728125,
+		"V": 0.82836271990153476,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.4811429977416992,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57771054060712801,
+		"V": 0.82901885048681789,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.518735408782959,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.58077030461963919,
+		"V": 0.82942100233410276,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.5534758567810059,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57958430228310909,
+		"V": 0.83009838581718487,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.589869499206543,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.58112751645289373,
+		"V": 0.82891336220986767,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.625058650970459,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.58125191917017183,
+		"V": 0.82727587140446202,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.6634306907653809,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.58642171947047106,
+		"V": 0.82531928228520557,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.698272705078125,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.58883440168202505,
+		"V": 0.82478854129691825,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.7350640296936035,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59430445694436329,
+		"V": 0.82765896193183575,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.7698678970336914,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60093074012315839,
+		"V": 0.83556320491853198,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.8076658248901367,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59973814481598042,
+		"V": 0.83444302368497958,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.8428668975830078,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.6014499527320486,
+		"V": 0.83587665089645857,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.8791294097900391,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60049175983944458,
+		"V": 0.83565840450558215,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.9131808280944824,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60108116550686552,
+		"V": 0.83463711052245015,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.9503636360168457,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60035489943641118,
+		"V": 0.84007423328076714,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 4.9864850044250488,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60018328199267335,
+		"V": 0.84151192190294111,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.0225338935852051,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59875756606934827,
+		"V": 0.84077895718267848,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.0580682754516602,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5980866533872814,
+		"V": 0.84240258762265385,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.0929274559020996,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5942452307410232,
+		"V": 0.85879162453998714,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.1304292678833008,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59071372943807576,
+		"V": 0.92858160580860594,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.1656360626220703,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.58941523598536438,
+		"V": 0.96241131158232318,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.2028007507324219,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59189389205640686,
+		"V": 0.97300176937012373,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.2391571998596191,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59046582220147648,
+		"V": 0.97073921575199706,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.2738246917724609,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.58862730925229079,
+		"V": 0.97307843694168961,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.3104753494262695,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59123124160113161,
+		"V": 0.97656136408411509,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.3451762199401855,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59264164950480502,
+		"V": 0.97333544826045693,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.3818888664245605,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59441375853426581,
+		"V": 0.97714836044249842,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.4169964790344238,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59394545671278087,
+		"V": 0.97570627009637878,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.4536037445068359,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59379914950495893,
+		"V": 0.97646817841628808,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.4908714294433594,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59227675560988136,
+		"V": 0.97850376818956986,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.5257339477539062,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5925675069745473,
+		"V": 0.977963611586805,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.5618762969970703,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5928811929387876,
+		"V": 0.97756456474719888,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 5.5975842475891113,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59219019547935114,
+		"V": 0.97671039265617077,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.208035945892334,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60251826157947708,
+		"V": 0.99324637847724273,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.2433547973632812,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60357572794717673,
+		"V": 0.99127442433313107,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.280003547668457,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60506452505074404,
+		"V": 0.99307528412425272,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.3167610168457031,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60635464333301536,
+		"V": 0.99380689698822411,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.3512415885925293,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60563267794163966,
+		"V": 0.99563443660626971,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.3875422477722168,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60745410847607884,
+		"V": 0.99796610455798185,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.4602780342102051,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60923810033766501,
+		"V": 0.99870273488446493,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.4958791732788086,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61043951903709792,
+		"V": 0.99989088924721625,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.530972957611084,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.6098727006241027,
+		"V": 0.99671032429908901,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.566192626953125,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60986998138158044,
+		"V": 0.99711789924410499,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.6033391952514648,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61062517191417043,
+		"V": 0.99767170733779353,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.6387796401977539,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61059967071958843,
+		"V": 0.99751435116004661,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.674506664276123,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60998495556610266,
+		"V": 0.99833950185734321,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.709740161895752,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61146451743352692,
+		"V": 0.99786244032590077,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 6.747408390045166,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61322172417207421,
+		"V": 0.99563888966148995,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.1379833221435547,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.6179116559980955,
+		"V": 0.97871425571142345,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.1751785278320312,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61325760978448884,
+		"V": 0.91153612043789345,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.210505485534668,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61550284862514515,
+		"V": 0.91673494552850343,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.2467193603515625,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61576746031853358,
+		"V": 0.91821812580400897,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.2810177803039551,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61627313434120523,
+		"V": 0.91766984163131737,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.3176627159118652,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61638956318911742,
+		"V": 0.91820689415220991,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.3532986640930176,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61582601818086202,
+		"V": 0.9179273253944551,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.3904047012329102,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61742179009275955,
+		"V": 0.9195346914032243,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.4247117042541504,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61564821767226674,
+		"V": 0.9155190977403973,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.4611420631408691,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61685927303727173,
+		"V": 0.91597332247048424,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.4975814819335938,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61658772795676753,
+		"V": 0.91630409371342825,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.5327920913696289,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61602347686426051,
+		"V": 0.91739251951060286,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.5698456764221191,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61614822447592155,
+		"V": 0.91788774610801815,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 7.6062579154968262,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61918172239725067,
+		"V": 0.94806224382032278,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 10.863036155700684,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40499511579625391,
+		"V": 0.94938551140627381,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 10.899116516113281,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.41494806380690752,
+		"V": 0.83939671735528587,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 10.934114456176758,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.41485786517539525,
+		"V": 0.85175511069633769,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 10.972627639770508,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.41229211821854589,
+		"V": 0.84550060638749591,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 11.15412425994873,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.41994066264868291,
+		"V": 0.83873883671296734,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 11.191159248352051,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42379951368377955,
+		"V": 0.85070652449414808,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 11.226458549499512,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42107735722356621,
+		"V": 0.83657706969708445,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 11.263351440429688,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42162984876846077,
+		"V": 0.84070446824408185,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 11.29863452911377,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42068141345813403,
+		"V": 0.83621263331529072,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 11.335854530334473,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.41298557210508069,
+		"V": 0.85227954962042707,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 13.499431610107422,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.4078477162013936,
+		"V": 0.99590064236067177,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 13.53718376159668,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40771492633155404,
+		"V": 0.9974456188884071,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.127460479736328,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40376187436230354,
+		"V": 0.99508944852139602,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.31154727935791,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40612030140069477,
+		"V": 0.99346707546084578,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.349384307861328,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40625053023967672,
+		"V": 0.99506611175041759,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.38585376739502,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40719188831968339,
+		"V": 0.99440964688159783,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.423853874206543,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.4077705937518441,
+		"V": 0.99256782870086036,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.461138725280762,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40821241488662391,
+		"V": 0.99483971166308283,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.497075080871582,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40761235429710363,
+		"V": 0.99590543326154068,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.534537315368652,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40735471812293755,
+		"V": 0.99899229739658346,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.682980537414551,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40845601988013985,
+		"V": 0.99740604596604554,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.719095230102539,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.4084009149326735,
+		"V": 0.99466010031987628,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.759890556335449,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.4100009041383374,
+		"V": 0.99503500090315633,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 14.871448516845703,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.41037741325628235,
+		"V": 0.99230675143932301,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.317317008972168,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39387144543077318,
+		"V": 0.9662141026250558,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.354231834411621,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39778703286208822,
+		"V": 0.99867443465438011,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.392870903015137,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39786175923251282,
+		"V": 0.98279400965902342,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.429325103759766,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39830495111836162,
+		"V": 0.97946633353813084,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.466843605041504,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39728075650070693,
+		"V": 0.9764207528924671,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.503183364868164,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39979887136054404,
+		"V": 0.99393820012585754,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.54128360748291,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40011212787769074,
+		"V": 0.99368618530960795,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.578149795532227,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40041376863522343,
+		"V": 0.98946370881653745,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.615763664245605,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39874928131851728,
+		"V": 0.97492205756354955,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.653857231140137,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39788492904473682,
+		"V": 0.98963543085013594,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.688880920410156,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39734625014235264,
+		"V": 0.99656344610632663,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.726852416992188,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39832325060745599,
+		"V": 0.98021980381504725,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.76393985748291,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.39923285883198689,
+		"V": 0.97920518954504665,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.801606178283691,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40022854412268155,
+		"V": 0.97557753248794621,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.838155746459961,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40237445967719243,
+		"V": 0.97815583898961966,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.876182556152344,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.40235121704030741,
+		"V": 0.97783442984257241,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.911643981933594,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.42668003550577149,
+		"V": 0.89840079142646145,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.949213027954102,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.43579855957459257,
+		"V": 0.84084114644087615,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 15.986269950866699,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.43639118788857872,
+		"V": 0.83698952038426777,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.024547576904297,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.43737217464093042,
+		"V": 0.83326295547987617,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.061008453369141,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.43500143496892113,
+		"V": 0.83442639577306488,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.099140167236328,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.43938204689682503,
+		"V": 0.84554624636101616,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.135105133056641,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.43977403259354364,
+		"V": 0.84312275041981266,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.172124862670898,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.44048506005561849,
+		"V": 0.84963135593148742,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.20855712890625,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45601899911746024,
+		"V": 0.83473239688823375,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.246477127075195,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.48870287952536912,
+		"V": 0.81910414629969786,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.282997131347656,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.50058796447044362,
+		"V": 0.81439959527074923,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.321125030517578,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.50361051949580893,
+		"V": 0.81806862129063063,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.356439590454102,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51408037068274814,
+		"V": 0.84845327781468938,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.39344596862793,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.53458353208711773,
+		"V": 0.87479385146608823,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.429939270019531,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.58187545705739174,
+		"V": 0.92010102483159451,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.467744827270508,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.6038986304978724,
+		"V": 0.93593123149317381,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.504905700683594,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60238142028559594,
+		"V": 0.9324240960889788,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.541177749633789,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60400952130166341,
+		"V": 0.93853743568872283,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.577720642089844,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60175594382199482,
+		"V": 0.94064257411186603,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.613018035888672,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.6018525265728496,
+		"V": 0.94548450030127462,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.649913787841797,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60098686462738315,
+		"V": 0.94917067739102368,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.686153411865234,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.6030214201717562,
+		"V": 0.96263734798824374,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.833240509033203,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.61286748177197226,
+		"V": 0.99889116144462309,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.868465423583984,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60731791725272288,
+		"V": 0.9917072700039864,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.904260635375977,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.60182770041498113,
+		"V": 0.98761504120345456,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 16.938913345336914,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.59782489196159638,
+		"V": 0.96403561689884087,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.048805236816406,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57060403298480589,
+		"V": 0.75925051473900063,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.084611892700195,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5706969600853018,
+		"V": 0.76537551261932191,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.120674133300781,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57221087225749678,
+		"V": 0.76100170340928186,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.156179428100586,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57118162906290237,
+		"V": 0.76225802195415959,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.193273544311523,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57250954472534654,
+		"V": 0.75868273994141622,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.229438781738281,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57350516103038385,
+		"V": 0.76149039889072112,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.265796661376953,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57315121650096934,
+		"V": 0.76607747003966953,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.300748825073242,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.57060523267096686,
+		"V": 0.76043011368112257,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.338193893432617,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.56951232682930564,
+		"V": 0.76222510034833191,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.374492645263672,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.56718782243063437,
+		"V": 0.76568159355396181,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.411397933959961,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.56912859642147673,
+		"V": 0.78695664231252505,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.446022033691406,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.56562512379181706,
+		"V": 0.77800044112546995,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.481884002685547,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.56688253456537097,
+		"V": 0.78564041568597909,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.518266677856445,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.55803135065017995,
+		"V": 0.77575938761368468,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.555978775024414,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5045062109432652,
+		"V": 0.77666809470395515,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.591667175292969,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46800604995192263,
+		"V": 0.78378266626244653,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.627578735351562,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45806929449611672,
+		"V": 0.78773061443321979,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.663835525512695,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45821611209556917,
+		"V": 0.78104534031860762,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.700294494628906,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45618445756018416,
+		"V": 0.77372568178495205,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.73748779296875,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45547298491705757,
+		"V": 0.76740853019442268,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.77391242980957,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45543311084099181,
+		"V": 0.77022340764154351,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.810756683349609,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45394675236061055,
+		"V": 0.76887256976123208,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.845550537109375,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45529085374462919,
+		"V": 0.76845126463873359,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.882686614990234,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46122897484825431,
+		"V": 0.7885530970265624,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.918987274169922,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46008113135608159,
+		"V": 0.78490079984627326,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.955816268920898,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45872426921306131,
+		"V": 0.76976479611869508,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 17.991569519042969,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45854621587503497,
+		"V": 0.77581608766685606,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.029399871826172,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45920698502952323,
+		"V": 0.78591171980240415,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.066286087036133,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46276984143444466,
+		"V": 0.78712550223479272,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.101978302001953,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45647815064809028,
+		"V": 0.77101604818113367,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.138835906982422,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45664224994628128,
+		"V": 0.77162802979951006,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.176399230957031,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45608139253000513,
+		"V": 0.77295515154100702,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.211587905883789,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46425166916943056,
+		"V": 0.78876579719611406,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.24909782409668,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46461866042570288,
+		"V": 0.78904482067762705,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.286773681640625,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46230333716125704,
+		"V": 0.78150654533718433,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.322652816772461,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.45964582895990513,
+		"V": 0.77683754027556196,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.359291076660156,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.46200166651073649,
+		"V": 0.78024789068907596,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.393850326538086,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.47525345243849026,
+		"V": 0.81263206670809951,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.431552886962891,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51401564091395135,
+		"V": 0.87521882150092267,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.467807769775391,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52338735035364525,
+		"V": 0.90998854384609018,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.504962921142578,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52195453070213649,
+		"V": 0.90585988775158,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.540945053100586,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52306270967141288,
+		"V": 0.90355328321436523,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.577663421630859,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52418212555275912,
+		"V": 0.91050851318936465,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.612651824951172,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52483512131498966,
+		"V": 0.91277121985835175,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.65007209777832,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5243802764588098,
+		"V": 0.9106750708296677,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.68712043762207,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52691639443245941,
+		"V": 0.90739089952628305,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.723472595214844,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52594625755966529,
+		"V": 0.90480992383303582,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.75970458984375,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52475970844463893,
+		"V": 0.8998032172109145,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.794641494750977,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.52289963035238485,
+		"V": 0.89414737421653845,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.832620620727539,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5216425614588488,
+		"V": 0.89641286573464429,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.868999481201172,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5225739855854401,
+		"V": 0.89784754290963753,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.905693054199219,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51936609110580056,
+		"V": 0.89688409481231868,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.941080093383789,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51906613992950834,
+		"V": 0.89554915376561883,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 18.978065490722656,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51978420930072133,
+		"V": 0.89645900224002439,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.013223648071289,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51842721192915409,
+		"V": 0.89331948052477061,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.05143928527832,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51685373746614083,
+		"V": 0.89319962263857478,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.087337493896484,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51910513093131216,
+		"V": 0.89889045820602742,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.124294281005859,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.50098964393805712,
+		"V": 0.91368189483152296,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.271833419799805,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49124568077517849,
+		"V": 0.90586792428593155,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.308061599731445,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.4893718128162664,
+		"V": 0.9077042659413177,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.344198226928711,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.48999169144097382,
+		"V": 0.90604437925499171,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.38121223449707,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.48952801568188342,
+		"V": 0.90589965336090583,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.417890548706055,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.48867648147777942,
+		"V": 0.90285563000554703,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.455333709716797,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49185271914249246,
+		"V": 0.899812501763113,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.492809295654297,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49292387729483206,
+		"V": 0.89650351651362226,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.527565002441406,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49229440430953342,
+		"V": 0.89760323250216179,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.565340042114258,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.48951453810653961,
+		"V": 0.89428254352070158,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.600543975830078,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49061820275201812,
+		"V": 0.89615502686585968,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.63817024230957,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49227552563508836,
+		"V": 0.89961330812689844,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.674184799194336,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49301618101631905,
+		"V": 0.90120275615561241,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.711021423339844,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49400608672334823,
+		"V": 0.90255242543788305,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.746143341064453,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.49966980061623339,
+		"V": 0.88133196002396974,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.78382682800293,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51315210284687174,
+		"V": 0.82251253464562879,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.820163726806641,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51442374835472648,
+		"V": 0.82228770332083145,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.857521057128906,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51322105450830247,
+		"V": 0.82334359116100864,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 19.8922119140625,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.51001338112795525,
+		"V": 0.79750694589635895,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.042610168457031,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.53073488367800603,
+		"V": 0.92396930151673229,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.077695846557617,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.53335850788857264,
+		"V": 0.87185738777304755,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.112525939941406,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.53847657477070487,
+		"V": 0.8586842797905907,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.149309158325195,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.53558402074538036,
+		"V": 0.87599251979629433,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.185552597045898,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.53672705404113752,
+		"V": 0.88287466496347511,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.222715377807617,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.53346395201755437,
+		"V": 0.91957778928379741,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.25782585144043,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.54092509097200858,
+		"V": 0.95110192703296514,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.294702529907227,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.53724099134139114,
+		"V": 0.92746855117986748,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.330301284790039,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.54423849588491402,
+		"V": 0.95875589936657346,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.367195129394531,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.54751725669252505,
+		"V": 0.95898155740490232,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.403865814208984,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.54443468231992553,
+		"V": 0.97959277174526971,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.43818473815918,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.53828112486499091,
+		"V": 0.9785441671694014,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.474838256835938,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5495276495082253,
+		"V": 0.97334184306876481,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.509830474853516,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55131356448276458,
+		"V": 0.95419385319079864,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.546516418457031,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56170320140270036,
+		"V": 0.95720460891692594,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.581470489501953,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55505054423438649,
+		"V": 0.96408073128862504,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.617910385131836,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.54849020022318751,
+		"V": 0.97592237643688218,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.652828216552734,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5446489480937553,
+		"V": 0.97109531669791582,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.689489364624023,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55227234034816086,
+		"V": 0.96744736229649564,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.725215911865234,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55884912609745796,
+		"V": 0.89214293424038116,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.761402130126953,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55987680914023652,
+		"V": 0.89225051889540063,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.796255111694336,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56619911415837154,
+		"V": 0.90558650240526073,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.833431243896484,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57164704096629293,
+		"V": 0.90553521685623706,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.869327545166016,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5674812745487342,
+		"V": 0.90678690688400176,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.905324935913086,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56289997715317963,
+		"V": 0.86566897840171841,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.940910339355469,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56171753964090421,
+		"V": 0.87104029862634658,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 20.978172302246094,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56345970105631293,
+		"V": 0.87790905279223086,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.014942169189453,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56400808790282975,
+		"V": 0.88554180020447437,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.050451278686523,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55765823227537581,
+		"V": 0.8737947988041167,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.087137222290039,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56211827220428467,
+		"V": 0.87141868573809045,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.122480392456055,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56844528231439684,
+		"V": 0.88809694668733186,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.159538269042969,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55762287755093976,
+		"V": 0.8777317759328539,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.194896697998047,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56073255754900386,
+		"V": 0.88261001176228926,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.231729507446289,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56115546690964457,
+		"V": 0.88086597325944538,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.267271041870117,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56576167564792224,
+		"V": 0.88711412639495069,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.302698135375977,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5621359272764147,
+		"V": 0.89153183508365008,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.337732315063477,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55617094885544471,
+		"V": 0.87830614251455796,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.375913619995117,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55728920121224279,
+		"V": 0.87310388917344439,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.410673141479492,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5620648277182837,
+		"V": 0.87567115246819793,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.446878433227539,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56459631506378249,
+		"V": 0.86170993851759847,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.481199264526367,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57723196476069905,
+		"V": 0.85994156970519853,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.518924713134766,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57749695604078788,
+		"V": 0.861053034512128,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.553945541381836,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58774795379837941,
+		"V": 0.87067229640293564,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.590034484863281,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58927457908185432,
+		"V": 0.87487251835845359,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.624425888061523,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58732932590402886,
+		"V": 0.87289182603666737,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.661027908325195,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58768026525493922,
+		"V": 0.87632615129571878,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.696796417236328,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58839220447963614,
+		"V": 0.87652725139152687,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.73358154296875,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58937295659850397,
+		"V": 0.87988519402333509,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.767801284790039,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58901853632749779,
+		"V": 0.87558516175891254,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.805168151855469,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58621865861125,
+		"V": 0.87361100351239218,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.84124755859375,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58723036434897524,
+		"V": 0.88004224778973383,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.878196716308594,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58879139735003749,
+		"V": 0.88335762183851152,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.912662506103516,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58794147392229545,
+		"V": 0.88144102108603972,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.948516845703125,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58761072077973009,
+		"V": 0.88270115392121851,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 21.983724594116211,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58544915309206125,
+		"V": 0.88596680140202455,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.021627426147461,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58434545364542734,
+		"V": 0.88412082359117783,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.05805778503418,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.58740514862146898,
+		"V": 0.88587376295899989,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.093555450439453,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.59600901109649795,
+		"V": 0.9577361205835796,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.129297256469727,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.50825808820983953,
+		"V": 0.95716349290111313,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.166406631469727,
+		"ObjectName": "BP_HeatmapReadyActor_C_0",
+		"U": 0.5060222174978235,
+		"V": 0.95545521426016511,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.202152252197266,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56437361628149385,
+		"V": 0.91446822213160084,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.238935470581055,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.55869689293065117,
+		"V": 0.89871808421850319,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.274438858032227,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5627321408350181,
+		"V": 0.90636119747467059,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.310579299926758,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56829056614498885,
+		"V": 0.91164766219459181,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.347496032714844,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56683849099137129,
+		"V": 0.90771588100188838,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.38340950012207,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56868133011135757,
+		"V": 0.90688528535311863,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.4202880859375,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57226108921937546,
+		"V": 0.91386101282932675,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.455066680908203,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57136312793207333,
+		"V": 0.91647889817105077,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.492815017700195,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5678926682725044,
+		"V": 0.9050699212506661,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.528127670288086,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57003525791412435,
+		"V": 0.91083034439944144,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.565614700317383,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5715644156194416,
+		"V": 0.90478660528332844,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.600925445556641,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56547922089325231,
+		"V": 0.90245873601527193,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.636823654174805,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57118085968493371,
+		"V": 0.91102392352127703,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.671998977661133,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5666058091699917,
+		"V": 0.9051200274038107,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.709569931030273,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56745142442206498,
+		"V": 0.90801970266835563,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.74513053894043,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57053844031763001,
+		"V": 0.91278008968195656,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.780910491943359,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56781775852123162,
+		"V": 0.90984910341349479,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.817947387695312,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56840384239474018,
+		"V": 0.90431891626607042,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.854461669921875,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57525004410505876,
+		"V": 0.91952678208654892,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.890222549438477,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57623676627738329,
+		"V": 0.92224423316039905,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.92713737487793,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57094468062792014,
+		"V": 0.91284182238004852,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.961725234985352,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57654132190010776,
+		"V": 0.91392123593229946,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 22.998147964477539,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.5722695070683872,
+		"V": 0.91357153874816122,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 23.034557342529297,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57152738033027028,
+		"V": 0.91758521056109366,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 23.071067810058594,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57170400869923499,
+		"V": 0.91314019416382664,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 23.107961654663086,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.56733209293396936,
+		"V": 0.90780263026466312,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 23.142635345458984,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57012065841019322,
+		"V": 0.91881115121208512,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	},
+	{
+		"TimePassedSinceRecordingStarted": 23.179475784301758,
+		"ObjectName": "BP_HeatmapReadyActor_C_3",
+		"U": 0.57072497142693479,
+		"V": 0.92598791876530395,
+		"PaintBrushScaleDivisorX": 1.8750003576278687,
+		"PaintBrushScaleDivisorY": 1.7187503278255463
+	}
+]
