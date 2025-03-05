@@ -22,7 +22,7 @@ Build and run the solution. From the editor, load the widget: Right click `Conte
 The controls configuration can be found in the IMC assets in `Content/EyeTracking/Input`.
 
 For VR in Unreal Engine 5.x, [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) in tandem with [OpenXR Explorer](https://github.com/maluoi/openxr-explorer) is recommended.
-To use eye-tracking with the HP headset, a (free) [https://omnicept-console.hpbp.io](developer license) is required. The credentials have to be copied into the `Make HPGliaConnectionSettings` node in the Blueprint `Content/EyeTracking/Blueprint/BP_EyeTrackingCharacter_BASE`.
+To use eye-tracking with the HP headset, a (free) [developer license](https://omnicept-console.hpbp.io) is required. The credentials have to be copied into the `Make HPGliaConnectionSettings` node in the Blueprint `Content/EyeTracking/Blueprint/BP_EyeTrackingCharacter_BASE`.
 
 ## Demo
 
@@ -30,6 +30,6 @@ To use eye-tracking with the HP headset, a (free) [https://omnicept-console.hpbp
 
 ## Note
 
-An earlier version of this project used vertex color painting instead of render targets, which was then discarded, since it required somewhat ordered and rather dense asset topology, which wasn't workable with the imported Rhinoceros assets this project was made to work with.
-However, a side product of this was another small Unreal Engine plugin to automatically increase vertex density of cuboids along the longest two axes, to enable vertex color painting on walls, floors, and ceilings.
+An earlier version of this project used vertex color painting instead of render targets. That didn't work, since it required somewhat ordered and rather dense asset topologies which the Rhinoceros assets this project was made to work with wouldn't necessarily possess.
+However, a side product of this detour was another small Unreal Engine plugin to automatically increase vertex density of cuboids along the longest two axes, to enable vertex color painting on walls, floors, and ceilings.
 This plugin can be found [here](https://github.com/sc0000/ue-cuboid-subdivider).
