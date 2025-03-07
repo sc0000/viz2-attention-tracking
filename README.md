@@ -12,6 +12,10 @@ As of yet, metrics are only accessible via FPS mode.
 
 Heatmaps are painted using render targets, i.e. alpha maps drawn in real time. This unfortunately means that they won't be correct if there are overlapping sections in the UV maps!
 
+## Demo
+
+[Demo](https://youtu.be/GPDkiOAOd_M). The environment shown in the video is not included, but a simple test map with a few recorded heatmaps is.
+
 ## Build & Run
 
 Please note that this software has only ever been built, run, and tested on Windows 10 (64-bit).
@@ -23,10 +27,6 @@ The controls configuration can be found in the IMC assets in `Content/EyeTrackin
 
 For VR in Unreal Engine 5.x, [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) in tandem with [OpenXR Explorer](https://github.com/maluoi/openxr-explorer) is recommended.
 To use eye-tracking with the HP headset, a (free) [developer license](https://omnicept-console.hpbp.io) is required. The credentials have to be copied into the `Make HPGliaConnectionSettings` node in the Blueprint `Content/EyeTracking/Blueprint/BP_EyeTrackingCharacter_BASE`.
-
-## Demo
-
-[Demo](https://youtu.be/GPDkiOAOd_M). The environment shown in the video is not included, but a simple test map with a few recorded heatmaps is.
 
 ## Note
 
